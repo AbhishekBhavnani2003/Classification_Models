@@ -1,0 +1,15 @@
+numpy
+pandas
+ipykernel 
+kagglehub
+scikit-learn 
+matplotlib
+
+
+# First createreate the virtual environment using the following command: 
+
+#   1. python -m venv venv
+#   2. source venv/bin/activate 
+#   3. pip install -r requirements.txt 
+
+# After that acitvate kernel on top right of notebook and select the virtual environment.
